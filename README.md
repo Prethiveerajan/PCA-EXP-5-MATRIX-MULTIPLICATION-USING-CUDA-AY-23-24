@@ -194,11 +194,11 @@ int main()
 !nvprof --print-gpu-trace ./matmul
 ```
 ## OUTPUT:
-
+```
 ![image](https://github.com/Prethiveerajan/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94233064/33ce775a-ba9a-4aae-b247-d7a68022bbd1)
 
 ![image](https://github.com/Prethiveerajan/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94233064/563b317b-a3c9-4880-a2ff-6671abbb220d)
 
-
+```
 ## RESULT:
 Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec. 
